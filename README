@@ -37,8 +37,7 @@ link:files/vendor/rails/actionpack/README.html.
 3. Go to http://localhost:3000/ and you'll see:
        "Welcome aboard: You're riding Ruby on Rails!"
 
-4. Follow the guidelines to start developing your application. You can find
-the following resources handy:
+4. Follow the guidelines to start developing your application. You can findthe following resources handy:
 
 * The Getting Started Guide: http://guides.rubyonrails.org/getting_started.html
 * Ruby on Rails Tutorial Book: http://www.railstutorial.org/
@@ -121,11 +120,7 @@ Finally, when you're ready to resume execution, you can enter "cont".
 
 The console is a Ruby shell, which allows you to interact with your
 application's domain model. Here you'll have all parts of the application
-configured, just like it is when the application is running. You can inspect
-domain models, change values, and save to the database. Starting the script
-without arguments will launch it in the development environment.
-
-To start the console, run <tt>rails console</tt> from the application
+configured, just like it is when the app
 directory.
 
 Options:
